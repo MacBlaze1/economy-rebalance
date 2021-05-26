@@ -1,1 +1,13 @@
-{}
+{
+    "id": "economyrebalance",
+    "name": "Economic Rebalance",
+    "version": "0.1",
+    "description": "Changes trading, mission and bounty reward/balance.",
+    "gameVersion": "0.95a-RC15",
+    "author": "Blase",
+    "utility": "true",
+    "jars": [
+        "jars/economyrebalance.jar"
+    ],
+    "modPlugin": "economyrebalance.EconomyRebalancePlugin"
+}
